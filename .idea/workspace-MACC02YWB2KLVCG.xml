@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27b8b850-9410-4996-98e7-27c79f7aa498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1or3iW56G6cAq3bOhVtGYuIWopF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.DS.Trees" />
+      <recent name="com.DS.recursion" />
+      <recent name="com.DS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/OneDrive - Philips/DataStructures-algo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.uplevelexcercise">
+    <configuration name="AlternativeisBipartite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DS.Graphs.AlternativeisBipartite" />
+      <module name="DS-1Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DS.Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsGraphValidTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DS.Graphs.IsGraphValidTree" />
+      <module name="DS-1Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DS.Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCasePermutation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.DS.recursion.LetterCasePermutation" />
+      <module name="DS-1Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DS.com.DS.SearchAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DS.Graphs.example" />
+      <module name="DS-1Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DS.Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isGraphBipartite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DS.Graphs.isGraphBipartite" />
+      <module name="DS-1Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DS.Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uplevelexcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DS.Graphs.uplevelexcercise" />
+      <module name="DS-1Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DS.Graphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LetterCasePermutation" />
+      <item itemvalue="Application.IsGraphValidTree" />
+      <item itemvalue="Application.isGraphBipartite" />
+      <item itemvalue="Application.AlternativeisBipartite" />
+      <item itemvalue="Application.example" />
+      <item itemvalue="Application.uplevelexcercise" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.uplevelexcercise" />
+        <item itemvalue="Application.example" />
+        <item itemvalue="Application.isGraphBipartite" />
+        <item itemvalue="Application.AlternativeisBipartite" />
+        <item itemvalue="Application.IsGraphValidTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27b8b850-9410-4996-98e7-27c79f7aa498" name="Default Changelist" comment="" />
+      <created>1614031009423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614031009423</updated>
+      <workItem from="1614031013793" duration="6616000" />
+      <workItem from="1614553565673" duration="80501000" />
+      <workItem from="1615516216879" duration="18947000" />
+      <workItem from="1615944237057" duration="91741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615944546365">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.976@0.23.1680.976" timestamp="1615944546365" />
+    <state x="653" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1616243395208">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="653" y="187" key="#com.intellij.ide.util.MemberChooser/0.23.1680.977@0.23.1680.977" timestamp="1616243395208" />
+    <state x="577" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1615944226948">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="577" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.976@0.23.1680.976" timestamp="1615944226948" />
+    <state x="394" y="428" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617038199024">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="394" y="428" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.978@0.23.1680.978" timestamp="1617038199024" />
+    <state x="601" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616289694911">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="601" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.975@0.23.1680.975" timestamp="1616289694911" />
+    <state x="603" y="222" key="#xdebugger.evaluate" timestamp="1617047386741">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="603" y="221" key="#xdebugger.evaluate/0.23.1680.976@0.23.1680.976" timestamp="1615428352680" />
+    <state x="603" y="221" key="#xdebugger.evaluate/0.23.1680.977@0.23.1680.977" timestamp="1615332186505" />
+    <state x="603" y="221" key="#xdebugger.evaluate/0.23.1680.978@0.23.1680.978" timestamp="1617044578468" />
+    <state x="603" y="222" key="#xdebugger.evaluate/0.23.1680.979@0.23.1680.979" timestamp="1617047386741" />
+    <state width="488" height="468" key="DebuggerActiveHint" timestamp="1617306503658">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="488" height="466" key="DebuggerActiveHint/0.23.1680.975@0.23.1680.975" timestamp="1615328766633" />
+    <state width="488" height="466" key="DebuggerActiveHint/0.23.1680.977@0.23.1680.977" timestamp="1615312002452" />
+    <state width="488" height="467" key="DebuggerActiveHint/0.23.1680.978@0.23.1680.978" timestamp="1617054214196" />
+    <state width="488" height="466" key="DebuggerActiveHint/0.23.1680.979@0.23.1680.979" timestamp="1614294842334" />
+    <state width="488" height="468" key="DebuggerActiveHint/0.23.1680.980@0.23.1680.980" timestamp="1617306503658" />
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom" timestamp="1617493858982">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1614952233924" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1615689776132" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1615584563260" />
+    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1615559947533" />
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1615937356137" />
+    <state width="1638" height="338" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1617210270782" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1616117068772" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1616433612272" />
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1617493858982" />
+    <state width="1638" height="338" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1617219998370" />
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1617306485688" />
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1617207059901" />
+    <state width="1638" height="313" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166896" />
+    <state width="1638" height="313" key="GridCell.Tab.0.center" timestamp="1617493858982">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1614952233922" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1615689776132" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1615584563259" />
+    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1615559947532" />
+    <state width="1638" height="313" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1615937356137" />
+    <state width="1638" height="338" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1617210270782" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1616117068771" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1616433612271" />
+    <state width="1638" height="313" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1617493858982" />
+    <state width="1638" height="338" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1617219998369" />
+    <state width="1638" height="313" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1617306485687" />
+    <state width="1638" height="313" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1617207059900" />
+    <state width="1638" height="313" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166894" />
+    <state width="1638" height="313" key="GridCell.Tab.0.left" timestamp="1617493858982">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1614952233922" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1615689776131" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1615584563258" />
+    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1615559947532" />
+    <state width="1638" height="313" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1615937356136" />
+    <state width="1638" height="338" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1617210270782" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1616117068771" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1616433612271" />
+    <state width="1638" height="313" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1617493858982" />
+    <state width="1638" height="338" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1617219998369" />
+    <state width="1638" height="313" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1617306485686" />
+    <state width="1638" height="313" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1617207059899" />
+    <state width="1638" height="313" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166893" />
+    <state width="1638" height="313" key="GridCell.Tab.0.right" timestamp="1617493858982">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1614952233923" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1615689776132" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1615584563259" />
+    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1615559947533" />
+    <state width="1638" height="313" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1615937356137" />
+    <state width="1638" height="338" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1617210270782" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1616117068772" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1616433612271" />
+    <state width="1638" height="313" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1617493858982" />
+    <state width="1638" height="338" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1617219998370" />
+    <state width="1638" height="313" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1617306485687" />
+    <state width="1638" height="313" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1617207059900" />
+    <state width="1638" height="313" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166895" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom" timestamp="1617493858983">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.965@0.23.1680.965" timestamp="1614952191491" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1615484697121" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1615516183212" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1615500858497" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.975@0.23.1680.975" timestamp="1617210124849" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.976@0.23.1680.976" timestamp="1616112387495" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.977@0.23.1680.977" timestamp="1616428909305" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.978@0.23.1680.978" timestamp="1617493858983" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.979@0.23.1680.979" timestamp="1617216919143" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1617306485871" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1617207045250" />
+    <state width="1638" height="313" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166898" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center" timestamp="1617493858983">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.965@0.23.1680.965" timestamp="1614952191490" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1615484697121" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1615516183211" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1615500858496" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.975@0.23.1680.975" timestamp="1617210124848" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.976@0.23.1680.976" timestamp="1616112387494" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.977@0.23.1680.977" timestamp="1616428909304" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.978@0.23.1680.978" timestamp="1617493858983" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.979@0.23.1680.979" timestamp="1617216919142" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1617306485870" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1617207045248" />
+    <state width="1638" height="313" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166897" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left" timestamp="1617493858983">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.965@0.23.1680.965" timestamp="1614952191489" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1615484697121" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1615516183211" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1615500858495" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.975@0.23.1680.975" timestamp="1617210124847" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.976@0.23.1680.976" timestamp="1616112387494" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.977@0.23.1680.977" timestamp="1616428909304" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.978@0.23.1680.978" timestamp="1617493858983" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.979@0.23.1680.979" timestamp="1617216919142" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1617306485870" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1617207045247" />
+    <state width="1638" height="313" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166897" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right" timestamp="1617493858983">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.965@0.23.1680.965" timestamp="1614952191491" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.967@0.23.1680.967" timestamp="1615484697121" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1615516183211" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1615500858496" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.975@0.23.1680.975" timestamp="1617210124848" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.976@0.23.1680.976" timestamp="1616112387495" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.977@0.23.1680.977" timestamp="1616428909304" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.978@0.23.1680.978" timestamp="1617493858983" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.979@0.23.1680.979" timestamp="1617216919143" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1617306485871" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1617207045249" />
+    <state width="1638" height="313" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.979@0.23.1680.979" timestamp="1616033166898" />
+    <state x="455" y="203" width="961" height="587" key="NewModule_or_Project.wizard" timestamp="1616425267825">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="455" y="203" width="961" height="587" key="NewModule_or_Project.wizard/0.23.1680.977@0.23.1680.977" timestamp="1616425267825" />
+    <state x="455" y="203" key="NewModule_or_Project.wizard/0.23.1680.978@0.23.1680.978" timestamp="1616424796419" />
+    <state x="328" y="78" key="SettingsEditor" timestamp="1616425285762">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="328" y="78" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1616062604813" />
+    <state x="328" y="78" key="SettingsEditor/0.23.1680.976@0.23.1680.976" timestamp="1615944189544" />
+    <state x="328" y="78" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1616425285762" />
+    <state x="629" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615380634585">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="629" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.975@0.23.1680.975" timestamp="1615380634585" />
+    <state x="541" y="251" width="598" height="490" key="find.popup" timestamp="1615931913869">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="541" y="251" width="598" height="490" key="find.popup/0.23.1680.972@0.23.1680.972" timestamp="1615931913869" />
+    <state x="474" y="119" key="new project wizard" timestamp="1616425227561">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="474" y="119" key="new project wizard/0.23.1680.977@0.23.1680.977" timestamp="1616425227561" />
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1614787342839">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1680.977@0.23.1680.977" timestamp="1614787342839" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/Factorial.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/Factorial.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/Factorial.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeSortAscending.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeSortAscending.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeSortDescending.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeSortAscending.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/InsetionSortRecursive.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/InsertionSortIterative.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/QuickSort.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeSortODDEven.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/OddEvenSwap.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/TwoNumberSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeSortDescending.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeTwoSortedArrays.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Sorting/MergeTwoSortedArrays_test.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/LetterCasePermutation.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/LetterCasePermutation.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/Permutations.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/Subsets.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/recursion/Subsets.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Trees/BinaryTreeLevelOrderTraversal.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/ConnectedComponents.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/isGraphBipartite.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/isGraphBipartite.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/isGraphBipartite.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/isGraphBipartite.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/example.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/example.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/uplevelexcercise.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/uplevelexcercise.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Graphs/uplevelexcercise.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/OneDrive - Philips/DataStructures-algo/DS-1Arrays/src/com/DS/Trees/TreeNode.java</url>
+          <line>12</line>
+          <properties class="com.DS.Trees.TreeNode" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
