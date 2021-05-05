@@ -7,6 +7,7 @@ public class ClimbingNStairs {
         System.out.println(climbingNstair(nthstairs));
     }
 
+
     public static int climbingNstair(int stairs){
         if( stairs ==1 || stairs ==2){
             return stairs;
