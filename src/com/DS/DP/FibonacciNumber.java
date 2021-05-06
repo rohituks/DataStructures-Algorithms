@@ -33,6 +33,16 @@ public class FibonacciNumber {
         }
         cache[fibNumber] = memoize(fibNumber -1 ) + memoize( fibNumber -2);
         return memoize(fibNumber);
+
+        //Alternative way of doing memoization without using cache
+/*        if(fibNumber ==0){
+            return 0;
+        }
+        if(fibNumber ==1){
+            return 1;
+        }
+
+        return memoize(fibNumber -1) + memoize( fibNumber -2);*/
     }
 
 

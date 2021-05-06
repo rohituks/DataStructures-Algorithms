@@ -1,48 +1,58 @@
 package com.DS.DP;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class UniquePaths {
+public class UniquePathsII {
     /*
-    https://leetcode.com/problems/unique-paths/
+    https://leetcode.com/problems/unique-paths-ii/
      */
 
     public static void main(String[] args){
-        int m=3;
-        int n=7;
-        System.out.println(usingTabulation(m, n));
-        System.out.println(usingMemoization(m, n));
+        int[][] grid = {{0,0,0}, {0,1,0}, {0,0,0}};
+
+        System.out.println(usingTabulation(grid));
     }
-    public static int usingTabulation(int m, int n){
-        int[][] grid = new int[m][n];
-
-/*        for(int row=0; row <= m-1; ++row){
-            grid[row][0] =1;
+    public static int usingTabulation(int[][] inputgrid){
+        int m = inputgrid.length;
+        int n = inputgrid[0].length;
+        int[][] table = new int[m][n];
+        //For First cell- If first cell has obstacle, we cannot proceed
+        if(inputgrid[0][0] == 1){
+            return 0;
+        }
+        //for First column
+        for(int row=1; row <= m-1; row++){
+            if(inputgrid[row][0]==1){
+                break;
+            }
+            table[row][0]=1;
         }
 
-        for(int col=0; col <= n-1; ++col) {
-            grid[0][col] = 1;
-        }*/
-
-        for(int[] arr : grid){
-            Arrays.fill(arr, 1);
+        for(int col=1; col <=n-1; col++){
+            if(inputgrid[0][col]==1){
+                break;
+            }
+            table[0][col] =1;
         }
 
-        for(int i =1; i<m; i++){
+        for(int i=1;i<m; i++){
             for(int j=1; j<n; j++){
-                grid[i][j] = grid[i-1][j] + grid[i][j-1];
+                if(inputgrid[i][j]==1){
+                    table[i][j]=0;
+                }
+                else
+                {
+                    table[i][j] = table[i-1][j] + table[i][j-1];
+                }
             }
         }
 
-
-        return grid[m-1][n-1];
+        return table[m-1][n-1];
     }
 
-    public static int usingMemoization(int m, int n){
-        if(m==1 || n==1){
-            return 1;
-        }
+    public static int usingMemoization(int[][] inputgrid){
 
-        return usingMemoization(m-1, n) + usingMemoization(m, n-1);
+        return 1;
     }
 }

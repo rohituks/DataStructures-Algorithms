@@ -19,8 +19,6 @@ public class uniqueCounts {
 
         }
 
-        int min = Integer.MAX_VALUE;
-        System.out.println(min);
         for(int i=0; i <n ; i++){
             table[0][i]=1;
         }
@@ -37,7 +35,6 @@ public class uniqueCounts {
             }
         }
 
-        List<Integer> hello = new ArrayList<Integer>();
 
         return table[m-1][n-1];
     }
