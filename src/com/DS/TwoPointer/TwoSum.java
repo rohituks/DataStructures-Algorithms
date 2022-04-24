@@ -41,6 +41,7 @@ public class TwoSum {
         int i = 0; //start pointer
         int j = arr.length - 1;
         for(i =0; i < arr.length; i++){ //n // we can use while loop as well, Doesnt matter
+            // This gap is very important, because depending upon problem we can write conidtions here
             if(arr[i] + arr[j]== aTarget){
                     return new int[] {i,j};
             }
