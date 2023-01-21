@@ -7,3 +7,5 @@
 2. Create empty files `Makefile`, `requirements.txt`,`main.py`,`Dockerfile`,`mylib/__init.py`
 
 3.Populate `Makefile`
+
+[![Python application test with Github Actions](https://github.com/rohituks/DataStructures-Algorithms/actions/workflows/devops.yml/badge.svg)](https://github.com/rohituks/DataStructures-Algorithms/actions/workflows/devops.yml)
